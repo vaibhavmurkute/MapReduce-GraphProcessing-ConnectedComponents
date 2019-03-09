@@ -6,7 +6,7 @@
 1,2,3,4,5,6,7
  represents the vertex with ID 1, which is connected to the vertices with IDs 2, 3, 4, 5, 6, and 7.
 ######
-![Undirected-Graph](p2.PNG?raw=true)
+![Undirected-Graph](p2.png?raw=true)
 ######
 ### is represented in the input file as follows:
 - 3,2,1
